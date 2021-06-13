@@ -1,0 +1,11 @@
+# Ignore the cached files
+__pycache__
+
+# Ignore my own specific VS Code settings
+.vscode/settings.json
+
+# OS specific stuff
+.DS_Store
+
+# Ignore custom labels by the consumers
+labels.ini
